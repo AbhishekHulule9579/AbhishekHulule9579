@@ -22,6 +22,8 @@ B.E. in Information Technology, SKN Sinhgad Institute of Technology & Science
 <p align="center"> <a href="https://github.com/AbhishekHulule9579/Study-Group-Finder" target="_blank"> <img src="https://img.shields.io/badge/Study_Group_Finder-blue?style=for-the-badge&logo=github" alt="Study Group Finder"/> </a> <a href="https://github.com/AbhishekHulule9579/Farm-Equipment-Rental" target="_blank"> <img src="https://img.shields.io/badge/Farming_Equipment_Rental-green?style=for-the-badge&logo=github" alt="Farm Rental"/> </a> <a href="https://github.com/AbhishekHulule9579/Hospital-Management-System" target="_blank"> <img src="https://img.shields.io/badge/Hospital_Management-red?style=for-the-badge&logo=github" alt="Hospital Management"/> </a> <a href="https://github.com/AbhishekHulule9579/E-commerce" target="_blank"> <img src="https://img.shields.io/badge/E-commerce_Management-orange?style=for-the-badge&logo=github" alt="E-commerce"/> </a> </p> <p align="center"> Explore my repositories for real-world projects and full-stack development examples! </p>
 📊 GitHub Stats & Activity
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AbhishekHulule9579&show_icons=true&theme=radical&hide_border=true" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekHulule9579&theme=radical" alt="GitHub Streak" /> </p>
+📈 GitHub Activity Graph
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhishekHulule9579&theme=radical" alt="Abhishek's Activity Graph" /> </p>
 ✨ Fun Fact
 
 💡 “If you can’t explain it simply, you don’t understand it well enough.”
