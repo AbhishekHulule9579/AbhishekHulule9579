@@ -2,7 +2,7 @@
 👨‍💻 About Me..
 
 🎓 Education:
-B.E. in Information Technology, SKN Sinhgad Institute of Technology & Science
+B.E. in Information Technology, SKN Sinhgad Institute of Technology & Science,Lonavla
 
 💻 Languages:
 
