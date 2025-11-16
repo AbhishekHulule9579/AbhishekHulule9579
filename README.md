@@ -24,6 +24,10 @@ B.E. in Information Technology, SKN Sinhgad Institute of Technology & Science,Lo
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AbhishekHulule9579&show_icons=true&theme=radical&hide_border=true" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekHulule9579&theme=radical" alt="GitHub Streak" /> </p>
 📈 GitHub Activity Graph
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhishekHulule9579&theme=radical" alt="Abhishek's Activity Graph" /> </p>
+🐍 GitHub Contribution Snake
+
+![snake gif](https://github.com/AbhishekHulule9579/AbhishekHulule9579/blob/output/github-snake.svg)
+
 ✨ Fun Fact
 
 💡 “If you can’t explain it simply, you don’t understand it well enough.”
