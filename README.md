@@ -35,7 +35,7 @@ I enjoy breaking down Java, Spring Boot & DevOps concepts while building real-wo
 
 ✅ Why Follow Me?
 
-Active on GitHub with production-ready projects & contributions
+Active on GitHub with production-ready projects & contributions.
 
 Sharing knowledge about Java, Spring Boot & DevOps
 
