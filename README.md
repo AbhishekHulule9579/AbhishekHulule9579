@@ -37,6 +37,6 @@ I enjoy breaking down Java, Spring Boot & DevOps concepts while building real-wo
 
 Active on GitHub with production-ready projects & contributions.
 
-Sharing knowledge about Java, Spring Boot & DevOps
+Sharing knowledge about Java, Spring Boot & DevOps.
 
 Continuously learning Cloud, Docker, Jenkins & CI/CD practices
