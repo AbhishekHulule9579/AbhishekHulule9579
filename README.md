@@ -39,4 +39,4 @@ Active on GitHub with production-ready projects & contributions.
 
 Sharing knowledge about Java, Spring Boot & DevOps.
 
-Continuously learning Cloud, Docker, Jenkins & CI/CD practices
+Continuously learning Cloud, Docker, Jenkins & CI/CD practices.
