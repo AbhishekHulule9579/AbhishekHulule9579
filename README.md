@@ -116,13 +116,17 @@ SKN Sinhgad Institute of Technology & Science, Lonavla
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhishekHulule9579&theme=radical" alt="Abhishek's Activity Graph" />
 </p>
 
----
+# 📈 Most Used Languages 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekHulule9579&theme=radical&hide_border=true&layout=compact" /> </p>
 
 # 🐍 GitHub Contribution Snake
 
 ![snake gif](https://github.com/AbhishekHulule9579/AbhishekHulule9579/blob/output/github-snake.svg)
 
 ---
+# 🏆 GitHub Trophies <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=AbhishekHulule9579&theme=radical&no-frame=true&no-bg=true&margin-w=8" /> </p>
+
+___
 
 # ✨ Fun Fact
 
