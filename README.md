@@ -1,4 +1,3 @@
-```md
 <p align="center">
   <img src="https://img.shields.io/badge/👋-Hi,_I'm_Abhishek_Hulule-red?style=for-the-badge&logo=github" alt="Hi Banner"/>
 </p>
